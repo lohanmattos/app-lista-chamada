@@ -30,14 +30,14 @@ function Home() {
   }
 
   useEffect(() => {
-    async function dataAPI(){
+    async function dataAPI() {
       const url = "https://api.github.com/users/lohanmattos"
       const response = await fetch(url);
       const data = await response.json();
 
       setUser({
         name: data.name,
-          avatar: data.avatar_url
+        avatar: data.avatar_url
       })
     }
 
