@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Lincense</a>
+  <a href="#-projeto">Projects</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
