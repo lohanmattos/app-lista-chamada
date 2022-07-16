@@ -28,10 +28,3 @@ Projeto desenvolvido durante o treinamento de Fundamentos do ReactJS na trilha D
 
 3. E pra iniciar a aplicação, rode o comando `npm run dev` 
 
-
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
----
