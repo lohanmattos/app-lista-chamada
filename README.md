@@ -1,23 +1,37 @@
 # Lista de Presença 
-Technologies   |    Projects   |    Lincense
 
-🚀 Tecnologias
+<p align="center">
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Lincense</a>
+</p>
+
+
+## 🚀 Tecnologias
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-JavaScript
-NodeJS
-ReactJS 
+- JavaScript
+- NodeJS
+- ReactJs
 
-💻 Projeto
+## 💻 Projeto
+
 Projeto desenvolvido durante o treinamento de Fundamentos do ReactJS na trilha Discover da Rocketseat.
 
-Como utilizar?
-Baixe esse repositório e com o seu o terminal, entre no diretório
 
-Rode o comando npm install para instalar as dependências
+## Como utilizar?
 
-E pra iniciar a aplicação, rode o comando npm run dev 
+1. Baixe esse repositório e com o seu o terminal, entre no diretório
 
-📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+2. Rode o comando `npm install` para instalar as dependências
 
+3. E pra iniciar a aplicação, rode o comando `npm run dev` 
+
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---
